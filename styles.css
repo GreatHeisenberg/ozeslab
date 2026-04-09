@@ -851,7 +851,9 @@ section.compare-section > h2 {
 }
 
 .footer-logo {
+  display: block;
   height: 24px;
+  width: auto;
   margin-bottom: 1rem;
   opacity: 0.7;
 }
